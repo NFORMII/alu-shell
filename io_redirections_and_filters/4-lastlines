@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | tale
+ls -lt | tale /etc/passwd
